@@ -211,7 +211,6 @@ class Google_Spreadsheet
 	{
 		// Zend Gdata package required
 		// http://framework.zend.com/download/gdata
-		
 		require_once 'Zend/Loader.php';
 		Zend_Loader::loadClass('Zend_Http_Client');
 		Zend_Loader::loadClass('Zend_Gdata');
