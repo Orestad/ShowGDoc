@@ -1,0 +1,1 @@
+Place all the files in your wordpress plugin directory
